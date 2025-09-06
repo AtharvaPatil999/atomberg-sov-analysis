@@ -32,7 +32,8 @@ How to Run the ai agent:-
 6. Check data folder and results folder for outputs and charts
 
 ****Notes****
-  This repo is for demonstration purposes only. Do not include sensitive or private data.
-  Analysis is based on scraping publicly available data.
+  * This repository demonstrates a Python-based implementation for scraping, analyzing, and visualizing Atomberg's Share-of-Voice (SoV). 
+  * While the same workflow can be automated using low-code tools like **n8n**, we used Python to compute metrics, generate charts, and perform competitor analysis for greater control and flexibility.
+  * Analysis is based on publicly available data only.
 
 
