@@ -38,7 +38,10 @@ How to Run the ai agent:-
 
 ****Notes****
   * This repository demonstrates a Python-based implementation for scraping, analyzing, and visualizing Atomberg's Share-of-Voice (SoV). 
-  * While the same workflow can be automated using low-code tools like **n8n**, we used Python to compute metrics, generate charts, and perform competitor analysis for greater control and flexibility.
+  * While the same workflow can be automated using low-code tools like **n8n**, we used Python to compute metrics, generate charts, and perform competitor analysis     for greater control and flexibility.
   * Analysis is based on publicly available data only.
+  * In the file "scrape_google.py" under scripts folder for serp api key i didnt mention my private key so generate one of your and paste it
+     HARDCODED_API_KEY = "_YOUR_SERP_API_KEY_". Here instead of this part "_YOUR_SERP_API_KEY_" mention you actual key.A SerpAPI key is exactly 64
+    characters long.
 
 
