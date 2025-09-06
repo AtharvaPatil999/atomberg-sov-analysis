@@ -4,7 +4,7 @@ import json
 from serpapi import GoogleSearch
 
 # 🔹 Option 1: Hardcode your key here (replace with your real key)
-HARDCODED_API_KEY = "08bd5292bc9cc0ea81f9e893216c94f97e90e426af9c537a8061be4030fd87ac"
+HARDCODED_API_KEY = "_YOUR_SERP_API_KEY"
 
 def scrape_google(query, num_results=20, api_key=None):
     if api_key is None:
