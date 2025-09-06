@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+beautifulsoup4
+youtube-search-python
+snscrape
+tqdm
+vaderSentiment
+textblob
+matplotlib
+reportlab
