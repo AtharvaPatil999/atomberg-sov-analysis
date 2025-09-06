@@ -4,13 +4,18 @@ This repository provides scripts and analysis for measuring Atomberg’s Share-o
 
 Project Structure:-
 
-scripts folder:- Python scripts for scraping and analysis the ".py" files in this folder acts as an AI Agnet
+scripts folder:- Python scripts for scraping and analysis the ".py" files in this folder acts as an AI Agent
+
   scrape_google.py:- Scrapes top N Google search results for a given query
+  
   scrape_youtube.py:- Scrapes top N YouTube search results
+  
   analyze_sov.py:- Analyzes brand mentions, computes SoV, generates charts
 
 data folder:-JSON/CSV outputs from scraping (sample data only)
+
 results folder:-  Generated charts in (PNG) format and processed CSV results
+
 requirements.txt:-  Contains all Python dependencies/ required libraries
 
 
