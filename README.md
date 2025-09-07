@@ -1,3 +1,4 @@
+<img width="640" height="480" alt="sov_chart" src="https://github.com/user-attachments/assets/9186b2d3-04aa-4a8b-9730-cc821529f7ac" />
 Atomberg Share-of-Voice Analysis
 
 This repository provides scripts and analysis for measuring Atomberg’s Share-of-Voice (SoV) on Google and YouTube, comparing brand visibility, engagement, and sentiment against major competitors.
